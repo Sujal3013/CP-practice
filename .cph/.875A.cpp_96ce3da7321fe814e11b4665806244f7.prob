@@ -1,0 +1,1 @@
+{"name":"Local: 875A","url":"c:\\Users\\gk-lenovo\\OneDrive\\Desktop\\CP\\875A.cpp","tests":[{"id":1685285229464,"input":"5\n10\n1 2 4 5 3 6 8 10 7 9 \n2\n1 2\n1\n1\n3\n3 2 1\n4\n1 4 3 2\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\gk-lenovo\\OneDrive\\Desktop\\CP\\875A.cpp","group":"local","local":true}
