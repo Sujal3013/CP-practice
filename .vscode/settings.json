@@ -4,6 +4,7 @@
         "iostream": "cpp",
         "iosfwd": "cpp",
         "cmath": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "complex": "cpp"
     }
 }
