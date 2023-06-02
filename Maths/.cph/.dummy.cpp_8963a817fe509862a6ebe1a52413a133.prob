@@ -1,0 +1,1 @@
+{"name":"Local: dummy","url":"c:\\Users\\gk-lenovo\\OneDrive\\Desktop\\CP\\Maths\\dummy.cpp","tests":[{"id":1685611284864,"input":"4\n1 10000\n10000 1\n4 9\n4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\gk-lenovo\\OneDrive\\Desktop\\CP\\Maths\\dummy.cpp","group":"local","local":true}
